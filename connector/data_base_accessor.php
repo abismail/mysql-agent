@@ -73,6 +73,9 @@ require_once('delete.php');
 			return $this->columnTypes;
 		}
 		
-		function insertRecord($)
+		/**
+		 * [description]
+		 */
+		function insertRecord($data) {}
 	}
 ?>
